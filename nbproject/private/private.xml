@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/models/Result.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/ui/CoursePanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/algorithms/SearchAlgorithms.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/models/Student.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/services/CourseService.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/ui/ReportPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/utils/DataPersistence.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/services/StudentService.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/studentrecordmanagementsystem/StudentRecordManagementSystem.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/algorithms/SortingAlgorithms.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/models/Course.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/algorithms/GraphAlgorithms.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/ui/MainApplicationFrame.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/ui/StudentPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/ui/ResultPanel.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/datastructures/StudentHashTable.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Desktop/StudentRecordManagementSystem/src/datastructures/BinarySearchTree.java</file>
+        </group>
+    </open-files>
+</project-private>
