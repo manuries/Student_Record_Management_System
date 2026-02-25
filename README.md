@@ -1,7 +1,7 @@
 # Student_Record_Management_System
 Updated Student Record Management System with  new algorithm
 
-# Student Record and Result Management System
+## Student Record and Result Management System
 
 A comprehensive desktop application for managing student information, academic results, and course prerequisites in educational institutions. Built with Java Swing and implementing advanced data structures and algorithms.
 
@@ -446,37 +446,6 @@ StudentRecordManagementSystem/
 4. Right-click project → Clean and Build
 
 5. Right-click project → Run
-```
-
-**Option 2: Using Command Line**
-```bash
-1. Clone the repository
-   git clone https://github.com/yourusername/StudentRecordManagementSystem.git
-
-2. Navigate to project directory
-   cd StudentRecordManagementSystem
-
-3. Compile
-   javac -d build/classes -sourcepath src src/**/*.java
-
-4. Run
-   java -cp build/classes studentrecordmanagementsystem.StudentRecordManagementSystem
-
-## Sample Data
-
-The system comes pre-loaded with 5 courses:
-
-| Code | Course Name | Credits | Prerequisites |
-|------|------------|---------|---------------|
-| CS101 | Object Oriented Programming | 3 | None |
-| CS201 | Data Structures & Algorithms | 3 | CS101 |
-| CS202 | Computer Networks | 3 | CS101 |
-| CS301 | Database Systems | 3 | CS201, CS101 |
-| CS401 | Web Development | 3 | CS301, CS202 |
-
-Add student records and results through the UI to test functionality.
-
----
 
 ## Testing
 
