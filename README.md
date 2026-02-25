@@ -461,9 +461,6 @@ StudentRecordManagementSystem/
 
 4. Run
    java -cp build/classes studentrecordmanagementsystem.StudentRecordManagementSystem
-```
-
----
 
 ## Sample Data
 
@@ -554,25 +551,6 @@ Add student records and results through the UI to test functionality.
 - Automatic GPA calculation with weighted credits
 - Prerequisite path finding using graph traversal
 - Topological ordering for dependency resolution
-
----
-
-## Future Enhancements
-
-### Short-term
-- [ ] Implement AVL Tree for guaranteed O(log n) BST performance
-- [ ] Add comprehensive input validation
-- [ ] PDF export for reports
-- [ ] Student photograph management
-- [ ] Data backup and recovery
-
-### Long-term
-- [ ] Migrate to database (MySQL/PostgreSQL)
-- [ ] Web-based version (Spring Boot + React)
-- [ ] Mobile applications (Android & iOS)
-- [ ] Cloud deployment for multi-campus access
-- [ ] Machine learning for grade prediction
-- [ ] Integration with Learning Management Systems
 
 ##  License
 
