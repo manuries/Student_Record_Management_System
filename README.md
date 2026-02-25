@@ -533,7 +533,21 @@ This project is developed for academic purposes as part of the PDSA-I coursework
 - Java documentation and community resources
 
 
-**⭐ If you find this project helpful, please give it a star on GitHub!**
+**⭐ If you find this project helpful, please give it a star on GitHub!** <br><br>
+<img width="1366" height="725" alt="Screenshot (748)" src="https://github.com/user-attachments/assets/888a0272-2142-49ef-b04f-23bb75f8682c" />   <br>
+<img width="1366" height="723" alt="Screenshot (740)" src="https://github.com/user-attachments/assets/fa2bdb5b-a338-4b7a-8035-69364b8d0573" />  <br>
+<img width="1366" height="727" alt="Screenshot (741)" src="https://github.com/user-attachments/assets/18746fd0-fe08-427f-b380-4f8ba4ce7880" />  <br>
+<img width="1366" height="723" alt="Screenshot (742)" src="https://github.com/user-attachments/assets/351ebe61-6e85-4d88-96c8-37174f2c49f7" /> <br>
+<img width="1366" height="725" alt="Screenshot (744)" src="https://github.com/user-attachments/assets/667e59fb-f0cd-4477-85c6-684540b17c04" /> <br>
+<img width="1366" height="727" alt="Screenshot (745)" src="https://github.com/user-attachments/assets/7696116d-b65b-42c9-9b37-8ce27a1a245f" /> <br>
+<img width="1366" height="727" alt="Screenshot (746)" src="https://github.com/user-attachments/assets/0cb4333f-a498-4b56-8f22-7554ee1e023a" /> <br>
+
+
+
+
+
+
+
 
 
 
